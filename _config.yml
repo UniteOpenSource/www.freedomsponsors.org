@@ -1,0 +1,8 @@
+title: Www.freedomsponsors.org
+description: The FreedomSponsors web application
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-leap-day
+
+gems:
+  - jekyll-mentions
